@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_user cannot add product when ordering below the allowed number of products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b604180-a402-4966-9b7c-5d3cb9007590</testCaseGuid>
+</TestCaseEntity>

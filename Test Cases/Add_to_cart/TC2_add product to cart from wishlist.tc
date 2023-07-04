@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_add product to cart from wishlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b91c3ce1-01a8-4e38-8f90-2fa7e312e8d8</testCaseGuid>
+</TestCaseEntity>

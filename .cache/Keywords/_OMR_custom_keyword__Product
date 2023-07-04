@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "CF29E5B9BA695383DB6A98B1E9BF32A5",
+  "keywordClasses": [
+    {
+      "name": "_OMR_custom_keyword.Product",
+      "keywordMethods": [
+        {
+          "name": "Text",
+          "parameters": [
+            {
+              "name": "object",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

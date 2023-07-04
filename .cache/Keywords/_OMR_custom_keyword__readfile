@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "66618C8B7CA9B8525D3EE48DEB81B082",
+  "keywordClasses": [
+    {
+      "name": "_OMR_custom_keyword.readfile",
+      "keywordMethods": [
+        {
+          "name": "readfilecsv",
+          "parameters": [
+            {
+              "name": "file",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

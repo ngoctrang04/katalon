@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_add product to cart from home screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec05463a-1a09-4d93-b6b3-a48c44c33511</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Enter invalid emails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bcdb7ea-7835-4fc2-b9d7-7dc27582fc32</testCaseGuid>
+</TestCaseEntity>

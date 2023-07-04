@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9_Register 2 accounts with 1 email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>615d9516-df94-4a65-8883-36bf66dfa945</testCaseGuid>
+</TestCaseEntity>

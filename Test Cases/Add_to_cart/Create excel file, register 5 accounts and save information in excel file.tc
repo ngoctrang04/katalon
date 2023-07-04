@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create excel file, register 5 accounts and save information in excel file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c667fafd-7ccd-42f0-8dcd-74fb557ee557</testCaseGuid>
+</TestCaseEntity>
